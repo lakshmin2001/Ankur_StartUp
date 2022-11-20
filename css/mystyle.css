@@ -1,0 +1,16 @@
+#preloader{
+    background-color: blueviolet;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 9999;
+}
+
+#preloader_status{
+    background-image: url("../images/preloader/preloader.gif")
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+}
